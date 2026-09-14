@@ -7,3 +7,9 @@
 ## About Me
 
 I am a beginner developer.
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
