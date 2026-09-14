@@ -18,21 +18,21 @@
 * **Контроль версий:** Git, GitHub
 * **Графика:** Photoshop CS6, Figma, Canva
 
-## код
+## Код
 
 ```javascript
 function multiply(a, b) {
   return a * b;
 }
 ```
-## Education
+## Образование
 
 **Российский государственный геологоразведочный университет**
 
-## Projects
+## Проекты
 
 RSSchool CV
 
-## Languages
+## Английский язык
 
-* **English:** B1 - Pre-Intermediate
+ B1 - Pre-Intermediate
