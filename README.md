@@ -1,1 +1,1 @@
-# rsschool-cv
+https://bainau.github.io/rsschool-cv/cv
